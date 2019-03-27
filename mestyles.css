@@ -1,0 +1,28 @@
+.headshot{
+  width: 35%;
+  height: 450px;
+  overflow-y: hidden;
+  padding-top: 50px;
+  display: inline-block;
+}
+
+.info{
+  display:inline-block;
+  width: 60%;
+  padding: 50px 50px 50px 50px;
+  vertical-align: top;
+  font-size: 15px;
+  color: rgb(56,56,56);
+  font-family: "Open Sans";
+  line-height: 150%;
+
+}
+
+h2{
+  color: grey;
+  font-family:"Roboto Mono";
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px 0px 10px 0px;
+  width: 150px;
+}

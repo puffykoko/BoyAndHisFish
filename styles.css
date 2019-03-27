@@ -11,9 +11,8 @@ h1 {
   font-size: 15px;
   font-weight: bold;
   margin: 50px 70px;
-  /*background-color: blue;*/
   width: 160px;
-  left:0;
+  /*left:0;*/
   padding: 0;
   position: fixed;
 }
@@ -52,10 +51,6 @@ a{
   color:grey;
 }
 
-a:visited{
-  color: grey;
-}
-
 a:hover{
   color: rgb(200,200,200);
 }
@@ -72,8 +67,9 @@ a:hover{
 
 .main {
   margin-left:30%;
-  font-size:0;
   margin-right:2.5%;
+  font-size: 0;
+  display: block;
 }
 
 .image-zoom-container{
